@@ -1,14 +1,18 @@
 {
   "dados": {
     "versao": 1,
-    "seq": 7,
-    "gerado": "2026-11-06T01:44:58",
+    "seq": 8,
+    "gerado": "2026-11-06T01:49:17",
     "bloqueados": [
       {
         "id": "9B24863DFF5A8556",
         "data": "2026-11-06"
+      },
+      {
+        "id": "D764D093DA673548",
+        "data": "2026-11-06"
       }
     ]
   },
-  "assinatura": "wCwWtsvxYTnGA4quaWfhHgpOTAWuNzh2ZuiNmXwioQJdj2N3nO9YaKVYXGBhHF19f53k3fQZoAyB2He2Ve7uCA"
+  "assinatura": "gWx6ip_89KpTKyrHKKTlE7pnOBUT3x8vtXHExT3_Qr9GewMuxi3wZx4_JnmiV8OjnpGQizUWJT5OAcm0sTIyDQ"
 }
