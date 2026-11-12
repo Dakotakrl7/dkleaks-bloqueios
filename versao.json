@@ -1,12 +1,12 @@
 {
  "dados": {
-  "versao": "v2.17.0",
-  "seq": 1794460182,
-  "url": "https://github.com/Dakotakrl7/dkleaks-bloqueios/releases/download/v2.17.0/DKLEAKS_v2.0.exe",
-  "sha256": "3b10d4bf97de9786acb65d4bc665fb1c3588cb663e41291ce851d7a8b500a188",
-  "notas": "atualização correção",
+  "versao": "v3.3.0",
+  "seq": 1794460620,
+  "url": "https://github.com/Dakotakrl7/dkleaks-bloqueios/releases/download/v3.3.0/DKLEAKS_v2.0.exe",
+  "sha256": "3f7fed569162449fcaac1e5c2dca8aa5fa89086102df2e989362542df026e328",
+  "notas": "ponte 3.3.0",
   "obrigatoria": false,
-  "publicado": "2026-11-12 05:09"
+  "publicado": "2026-11-12 05:17"
  },
- "assinatura": "_Lq_8jjrLaD0ZisdpWM88XAGw8hME3487jFiLSjF_9vfx_Y6fMs6taWGI7-hvohgvJR6aGQUZ5NsJjg5x97kCQ"
+ "assinatura": "dN9N41Y73sc_KN3-ueBJyUsDbozwYG9UtyMaUpaD1AxM2n_hB-1Yxe1sIzl04CPRzgJqL3h2OMXUHg-DHTUHDw"
 }
