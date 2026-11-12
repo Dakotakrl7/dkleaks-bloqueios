@@ -1,0 +1,12 @@
+{
+ "dados": {
+  "versao": "v2.16.0",
+  "seq": 1794459374,
+  "url": "https://github.com/Dakotakrl7/dkleaks-bloqueios/releases/download/v2.16.0/DKLEAKS_v2.0.exe",
+  "sha256": "e4528b278f31b99813c97864dfbe2928815312b2f408b6931194e3714defafef",
+  "notas": "teste de atualização",
+  "obrigatoria": false,
+  "publicado": "2026-11-12 04:56"
+ },
+ "assinatura": "0JwDmVeEgIYCfXA_tAVxw7F42Qa8PoHPSNAzptAp8r3rOU6-OwmpDuCLecA92UF97BBs5Ymj_1EV_-ZfHuGNBQ"
+}
