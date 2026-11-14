@@ -1,11 +1,16 @@
 {
  "dados": {
-  "convite": "",
+  "convite": "https://discord.gg/dkleaks",
   "aviso": {
-   "texto": "",
+   "texto": "LANÇAMENTO DO DKLEAKS HUB",
    "tipo": "info"
   },
-  "novidades": [],
+  "novidades": [
+   [
+    "HUB 1.0",
+    "LANÇAMENTO DO DKLEAKS HUB PRIMEIRA VERSÃO."
+   ]
+  ],
   "produtos": [
    {
     "id": "dkleaks",
@@ -37,8 +42,8 @@
     "imagem": null
    }
   ],
-  "versao_cfg": 2,
-  "gerado": "2026-11-14 11:50:10"
+  "versao_cfg": 3,
+  "gerado": "2026-11-14 12:01:12"
  },
- "assinatura": "pVmdKVEvRpp5fDZWlWBqk8YHqWOFqoeURkR5bIQRNhb9tj4hxd43dwEUqKIDXXeNLo7jac80e880XriIfCATCw"
+ "assinatura": "lwov6c8uC5yZ-jkwKhGsA04b-HON3XR4nhKTcCBFADl5EQ3LQDvoFB0h4jnlbm2xlSn2I_lu7RIBZH1WWB5MDQ"
 }
