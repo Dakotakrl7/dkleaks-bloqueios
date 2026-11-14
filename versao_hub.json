@@ -1,0 +1,12 @@
+{
+ "dados": {
+  "versao": "v1.0.0",
+  "seq": 1794656105,
+  "url": "https://github.com/Dakotakrl7/dkleaks-bloqueios/releases/download/hub-v1.0.0/DKLEAKS_HUB_Setup.exe",
+  "sha256": "49366cd25c69e1d5c99331a485c27aa1b5ad0e45058661c1724f78875b70fe96",
+  "notas": "RELEASE DKLEAKS HUB",
+  "obrigatoria": false,
+  "publicado": "2026-11-14 11:35"
+ },
+ "assinatura": "qMiHTrQc0XEPOYzFEuBVAhwklfKQoYa2oqLxNioZUL_cO5TQp2tbPkHULYZjJfSW7kKfB0blmwb3_rSm1alKBA"
+}
