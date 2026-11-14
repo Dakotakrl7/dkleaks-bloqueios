@@ -1,12 +1,12 @@
 {
  "dados": {
-  "versao": "v3.7.6",
-  "seq": 1794648823,
-  "url": "https://github.com/Dakotakrl7/dkleaks-bloqueios/releases/download/v3.7.6/DKLEAKS_v2.0.exe",
-  "sha256": "e0c6b8e52bfba28fdce091172846cf586269dc6098f4a0700dd099eee3c2f489",
-  "notas": "update melhorias no input",
+  "versao": "v3.7.8",
+  "seq": 1794661151,
+  "url": "https://github.com/Dakotakrl7/dkleaks-bloqueios/releases/download/v3.7.8/DKLEAKS_v2.0.exe",
+  "sha256": "f8649c590b308503db59cb428fc695bb75d448f83304aad2d2d47075f81b3793",
+  "notas": "update pick squad",
   "obrigatoria": false,
-  "publicado": "2026-11-14 09:33"
+  "publicado": "2026-11-14 12:59"
  },
- "assinatura": "RkUc4wMck-JbOHijk8Vj9QcQMa5EcMgFTAunKO1NW4QktVZk5N2y4EGR8QLZpbXtFMXc8YICITUcXLNwgl6eBQ"
+ "assinatura": "0xbgymwSasr4_2i0YEL473oaxC5wITwJHIAqibSe9HlHRbCe7dLWsqZ4ahmk8CjQecPIHPUwbwuef30ac3YJBw"
 }
