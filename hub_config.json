@@ -1,0 +1,44 @@
+{
+ "dados": {
+  "convite": "",
+  "aviso": {
+   "texto": "",
+   "tipo": "info"
+  },
+  "novidades": [],
+  "produtos": [
+   {
+    "id": "dkleaks",
+    "nome": "DKLEAKS",
+    "sub": "Farm AFK Fortnite",
+    "tag": "FORTNITE",
+    "desc": "Entra na partida, fica ativo e puxa a próxima sozinho.",
+    "prefixo": "DKLEAKS1",
+    "exe": "DKLEAKS.exe",
+    "cor": "#ff2a6d",
+    "manifesto": "https://raw.githubusercontent.com/Dakotakrl7/dkleaks-bloqueios/main/versao.json",
+    "arquivo_key": "",
+    "imagem": {
+     "url": "https://raw.githubusercontent.com/Dakotakrl7/dkleaks-bloqueios/main/hub_assets/dkleaks_36c1cd3e00.img",
+     "sha256": "36c1cd3e0017f195b32777698341c187da18149ecf239ef3d61c60705ac9452e"
+    }
+   },
+   {
+    "id": "em_breve",
+    "nome": "Novo programa",
+    "sub": "Em breve",
+    "tag": "EM BREVE",
+    "desc": "Mais programas chegando ao hub.",
+    "prefixo": "",
+    "exe": "",
+    "cor": "#6b7aa8",
+    "manifesto": "",
+    "arquivo_key": "",
+    "imagem": null
+   }
+  ],
+  "versao_cfg": 1,
+  "gerado": "2026-11-14 11:43:23"
+ },
+ "assinatura": "6WYjWxT4ueLphFkmCyeVrjKHf9wORu3wx4gsFeseLvZQbSky7afYoFOc32xN1sA17uWK_n4AP0-SHSuaqk8uDg"
+}
