@@ -30,7 +30,7 @@
    },
    {
     "id": "em_breve",
-    "nome": "LGZAO",
+    "nome": "EM BREVE",
     "sub": "Em breve",
     "tag": "EM BREVE",
     "desc": "Mais programas chegando ao hub.",
@@ -42,8 +42,8 @@
     "imagem": null
    }
   ],
-  "versao_cfg": 3,
-  "gerado": "2026-11-14 12:01:12"
+  "versao_cfg": 4,
+  "gerado": "2026-11-15 00:55:03"
  },
- "assinatura": "lwov6c8uC5yZ-jkwKhGsA04b-HON3XR4nhKTcCBFADl5EQ3LQDvoFB0h4jnlbm2xlSn2I_lu7RIBZH1WWB5MDQ"
+ "assinatura": "1kN7a8WlUlBkjwWDrk_Th27Boit7hgab4Pv_J12RtEerbf3z94Je1GPd61VmIvC0K4kZd7kX_mvMpRVgqxRbDw"
 }
