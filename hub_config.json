@@ -3,9 +3,13 @@
   "convite": "https://discord.gg/dkleaks",
   "aviso": {
    "texto": "LANÇAMENTO DO DKLEAKS HUB",
-   "tipo": "info"
+   "tipo": "alerta"
   },
   "novidades": [
+   [
+    "DKLEAKS V2 BUILD 3.8.2",
+    "DKLEAKS 3.8.2 • Design novo: interface totalmente refeita, mais moderna e fluida. • \"Puxar squad\" agora liga e desliga de verdade (também direto na tela Início). • Corrigido o alarme falso de \"travado\"/\"inativo\" ao pausar, voltar ao jogo ou"
+   ],
    [
     "HUB 1.0",
     "LANÇAMENTO DO DKLEAKS HUB PRIMEIRA VERSÃO."
@@ -42,8 +46,8 @@
     "imagem": null
    }
   ],
-  "versao_cfg": 4,
-  "gerado": "2026-11-15 00:55:03"
+  "versao_cfg": 5,
+  "gerado": "2026-11-15 06:52:33"
  },
- "assinatura": "1kN7a8WlUlBkjwWDrk_Th27Boit7hgab4Pv_J12RtEerbf3z94Je1GPd61VmIvC0K4kZd7kX_mvMpRVgqxRbDw"
+ "assinatura": "zFp-ol5cPt7nadlzpPBhqrQPuttHliyu2IACUNllTHWkN3bT0h2jWvtxuOUJAVvXOCbJDP3rralzkEx_uFpiBQ"
 }
