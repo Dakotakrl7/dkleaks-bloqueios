@@ -2,7 +2,7 @@
   "dados": {
     "versao": 1,
     "seq": 32,
-    "gerado": "2026-11-17T05:42:24",
+    "gerado": "2026-11-17T07:45:13",
     "bloqueados": [
       {
         "id": "06F9E92ABFE48DEE",
@@ -86,5 +86,5 @@
       }
     ]
   },
-  "assinatura": "rhtqeo6Ki23PT8I1db9KAxPFYaDTrYD4p7gFaYDNipv_DbO-9RWcXgqGzyUf_ueELlhlGIAe0y-2swd1Xq3OAw"
+  "assinatura": "KL0h_IQV6XmvQRZsBsDEYd4YbKK9esfAkJU55QCwrX_9LaDqpvClhvLWRzwnZBve_YAlNTVs4sX7kJ5rCBmqBQ"
 }
