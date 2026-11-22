@@ -1,8 +1,8 @@
 {
   "dados": {
     "versao": 1,
-    "seq": 38,
-    "gerado": "2026-11-22T01:02:40",
+    "seq": 39,
+    "gerado": "2026-11-22T11:31:45",
     "bloqueados": [
       {
         "id": "017EF3F69394EB32",
@@ -765,6 +765,10 @@
         "data": "2026-11-19"
       },
       {
+        "id": "9F500CC0F7CE11D0",
+        "data": "2026-11-22"
+      },
+      {
         "id": "9F9CC6268A1AB3C9",
         "data": "2026-11-19"
       },
@@ -1182,5 +1186,5 @@
       }
     ]
   },
-  "assinatura": "gVbNmiHzcCAc_XJjq-Cn4VjAjAOLOgqGsbWxF3uyYuPofr3VZ_thcyPq34sU4GWe1rcL150rkJ2s5jbP_P6QBA"
+  "assinatura": "uKw509SuNBJUQyuQE3PYKxsGmudmckORXVfQdv0SumFNytyp_sNGUp6ybVXV8j-NdYB8g6khLpRp5bADD-pnCw"
 }
