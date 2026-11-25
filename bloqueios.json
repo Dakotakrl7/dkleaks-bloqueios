@@ -1,8 +1,8 @@
 {
   "dados": {
     "versao": 1,
-    "seq": 42,
-    "gerado": "2026-11-24T20:59:57",
+    "seq": 43,
+    "gerado": "2026-11-24T21:00:02",
     "bloqueados": [
       {
         "id": "017EF3F69394EB32",
@@ -1198,5 +1198,5 @@
       }
     ]
   },
-  "assinatura": "TBR77z6NmwPJms8Kn78F7YN_HMj7ygxgMUWNOwXa_dJeWYKpH22lL4c4i9JVQfiKElkoaYEfVyPYcvPuKEIcCw"
+  "assinatura": "6mirKX6hdGNVEGsc7_CTqcJuCoejEBtDCFOOrLEV2Mb2LG4O9K0vVQBJ_DZL1WhPpvN5cn_FCAASANZRdcfIDA"
 }
